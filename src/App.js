@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='mainContainer'>
       <div>
-      <img src={toDoImg} alt='yes you can image' width="300px" />
+      <img src={toDoImg} alt='yes you can' width="300px" />
       </div>
       <div className='listStyle'>
         <ToDo />
